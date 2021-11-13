@@ -50,7 +50,7 @@ This application was built as part of a Networks course assignment. Meant to exp
 
   
 
-3.  *In the Game Room* - The game to be played is a simple game of chance. The 2 clients enter true or false when prompted
+3.  *In the Game Room* - The game to be played is a simple game of chance. The 2 clients enter `true` or `false` when prompted. Command should be `/guess <input>`.
 
   
 
