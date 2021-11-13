@@ -1,0 +1,3 @@
+player1:hello
+player2:login
+player3:password
